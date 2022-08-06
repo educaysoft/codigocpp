@@ -1,0 +1,4 @@
+
+b) Crear un diagrama de flujo que permita realizar 5 transacciones bancarias de tipo
+ depósiso y retiro ; al final el diagrama muestra 
+ el saldo por pantalla.

@@ -1,0 +1,4 @@
+Este proyecto tuvo como objetivo realizar el ciclo de vida del software que comprendio 
+en el análisis, diseño y codificación en C++ de programa para calcular la Media y posteriormente 
+la Varianza de N números ingresados por el usuario el programa presenta la Medio y la Varianza 
+calculada.

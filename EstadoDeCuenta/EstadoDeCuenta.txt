@@ -1,0 +1,2 @@
+En este proyecto se realizo el análisis, diseño y codificación en c++  de un programa que permite obtener el total de
+los ingrese egresos y el saldo a partir de los valores ingresas como negativo y positivos.

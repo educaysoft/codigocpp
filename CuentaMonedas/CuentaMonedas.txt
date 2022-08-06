@@ -1,0 +1,4 @@
+Crear un diagrama de flujo que permita ingresar monedas de $1 (un dolar),
+$0.5 (cincuenta centavos). $0.25 (veiti cinco centavos) 
+y calcule el total general de dinero ingresado y el total 
+por cada denominación  de moneda; tambíen que indique cuantas monedas de cada denominación fueron ingresadas.

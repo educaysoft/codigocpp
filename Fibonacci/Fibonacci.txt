@@ -1,0 +1,3 @@
+Crear  un diagrama de flujo 
+que muestra los 100 primeros
+número de la serie de

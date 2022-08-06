@@ -1,0 +1,2 @@
+Este proyecto comprende el análisis, diseño y codificación en c++ de un programa que compara 3 nuemero 
+e indica cual de ellos es el mayor. 

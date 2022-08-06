@@ -1,0 +1,3 @@
+Este proyecto realizo el análisis, diseño y codificación en C++, 
+de un programa que calcula la cantidad de estudiantes promovidos y
+quedados en funcion de su promedio de notas

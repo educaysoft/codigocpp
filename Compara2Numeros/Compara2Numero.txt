@@ -1,0 +1,1 @@
+Un program que compara 2 numero y me arroja si son igual o cual es el meno
